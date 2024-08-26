@@ -5,13 +5,19 @@ Hi, I am a UC Berkeley student studying Data Science. I love working with variou
 
 ## Skills
 - Programming Languages: Python, Java, R, HTML, CSS, ARCGIS, SQL
-- Tools and Frameworks: PyTorch, Pandas, Sklearn
+- Tools and Frameworks: PyTorch, Pandas, Sklearn, Numpy, Beautiful Soup
 
 ## Projects
 
 ### Essay Prediction Model
 - Description: This model can take any given Essay and predict whether or not it is AI generated with high accuracy and precision. Uses various student written and GPT generated essays to train a model of ~36,000 parameters, extracting information from sentence syntax, a TD-IDF matrix, and measures of word uniqueness.  
 - GitHub Repository: https://github.com/jfleddy49/Essay_model_Predictor
+
+### Data Analysis For Santa Rosa City Schools
+ - Processed and cleaned student performance data
+ - Analyzed the cleaned data with pandas and numpy to find insights
+ - Presented the data to administrators
+ - Created recommendations for administrators for steps forward
 
 ## Education
 - BA in Data Science, UC Berkeley, Fall 2024
